@@ -41,7 +41,7 @@ import UIKit
     /*
      Set interval time between each characters
      */
-    @IBInspectable open var charInterval: Double = 0.1
+    @IBInspectable open var charInterval: Double = 0.2
 
     /*
      Optional handler which fires when typing animation is finished
